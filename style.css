@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 40px;
+	background: rgb(183, 244, 99);
+}
+header, footer{
+	min-height: 10vh;
+	background: yellow;
+}
+header img{
+	width: 200px;
+}
+main{
+	min-height: 60vh;
+	background: rgba(183, 242, 99, 0.8);
+}
+article{
+	min-height: 20vh;
+	background: blue;
+}
+.content img{
+	height: 150px;
+	width: auto;
+	border-radius: 5px;
+	margin: 5px;
+}
